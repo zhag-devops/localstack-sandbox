@@ -22,5 +22,7 @@ In detached mode
 ## Integrations and tools
 
 [AWS CLI](https://docs.localstack.cloud/user-guide/integrations/aws-cli/)
+
 [Serverless framework](https://docs.localstack.cloud/user-guide/integrations/serverless-framework/)
+
 [Terraform](https://docs.localstack.cloud/user-guide/integrations/terraform/)

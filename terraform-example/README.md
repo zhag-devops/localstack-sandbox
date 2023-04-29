@@ -1,6 +1,7 @@
 # Terraform
 
 [Localstack docs](https://docs.localstack.cloud/user-guide/integrations/terraform/)
+
 [Terraform docs](https://developer.hashicorp.com/terraform/docs)
 
 ## Init
